@@ -170,7 +170,7 @@ a{
     margin-left: 40px; 
     color: #004080;
 }
-.advisory_articles-section .section-title{
+.advisory_articles-section .section-title {
     font-size: 1.5em;
     margin: 20px 10px 10px 10px;
     margin-left: 40px; 
@@ -344,7 +344,16 @@ background: linear-gradient(to bottom, #ef473a, #cb2d3e);
     margin: 2rem auto;
     padding: 60px;
 }
-
+.faq .section-title {
+    font-size: 1.5em;
+    margin: 20px 10px 10px 10px;
+    margin-left: 40px; 
+    color: #004080;
+}
+.faq header{
+    margin: 40px;
+    text-align: center;
+}
 .faq-item {
     border: 1px solid #ddd;
     border-radius: 8px;
